@@ -1,4 +1,7 @@
-var Kahoot = require("kahoot.js-updated");
+const Kahoot = require("kahoot.js-updated");
+const settings = require('./settings.json');
+const Chance = require('chance');
+const chance = new Chance();
 const readline = require("readline");
 const readlines = readline.createInterface({
     input: process.stdin,
