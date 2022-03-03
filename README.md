@@ -1,6 +1,4 @@
-[![Run on Repl.it](https://repl.it/badge/github/sensoorr/kahoot-bot)](https://repl.it/github/)
-
-**For easiest use, press `Run on Repl.it` and press run!**
+[![Run on Repl.it](https://repl.it/badge/github/sensoorr/kahoot-bot)](https://repl.it/github/sensoorr/kahoot-bot)
 
 # Kahoot-bot
 A simple bot that joins a kahoot game and answers with random answers.
