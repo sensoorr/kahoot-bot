@@ -20,4 +20,4 @@ If you want the bot to join a Kahoot lobby, do the following:
 For multiple bots run the `start.bat` file as many times as you would like corresponding to the number of bots you'd like.
 
 ## Config
-Changing the bot's names, randomizing names, Game ID and amount of bots is available to do in the settings.json file.
+Changing the bot's names, randomizing names, Game ID and amount of bots is available to do in the `settings.json` file.
