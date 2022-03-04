@@ -13,8 +13,11 @@ You've successfully installed the required packages!
 
 If you want the bot to join a Kahoot lobby, do the following:
 
-1. Run `node index.js` in CMD.
-2. It will ask for the Game ID. Once entered, the bot will join.
+1. Open the `settings.json` file and change the Game ID to your Game's ID.
+2. Run the `start.bat` file and it will connect with your specified settings.
+
+**Multiple bots**
+For multiple bots run the `start.bat` file as many times as you would like corresponding to the number of bots you'd like.
 
 **Config**
 Changing the bot's names, randomizing names, Game ID and amount of bots is available to do in the settings.json file.
