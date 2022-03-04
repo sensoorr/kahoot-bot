@@ -5,7 +5,7 @@ A simple bot that joins a kahoot game and answers with random answers.
 
 1. This project requires node.js v6 or higher. If you do not have it, you can install it from http://nodejs.org
 
-2. Either clone the repository using ```git clone https://github.com/sensoorr/kahoot-bot.git``` or download the latest release from the [releases](https://github.com/sensoorr/kahoot-bot/releases) tab.
+2. Either clone the repository using ```git clone https://github.com/sensoorr/kahoot-bot.git``` or download the latest release from the [releases](https://github.com/sensoorr/kahoot-bot/releases/latest) tab.
 
 3. Navigate to the directory where the repo is cloned and type ```npm install``` in CMD.
 
